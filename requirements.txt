@@ -10,3 +10,5 @@ h5py>=3.1.0
 opencv-python>=4.5.0 
 omegaconf
 huggingface_hub>=0.23.0
+gymnasium>=1.0.0
+minigrid>=3.0.0
